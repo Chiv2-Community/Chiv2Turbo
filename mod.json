@@ -1,7 +1,7 @@
 {
     "repo_url": "https://github.com/Chiv2-Community/Chiv2Turbo",
     "name": "Chiv2Turbo",
-    "description": "15% speed boost (from default) for Chivalry 2 Unchained\n\nUsage:\nopen agmods?map=to_stronghold?mods=Chiv2Turbo",
+    "description": "15% speed boost (from default) for Chivalry 2 Unchained, in the style of Street Fighter 2 Turbo. \n\nUsage:\nopen agmods?map=to_stronghold?mods=Chiv2Turbo",
     "mod_type": "Shared",
     "authors": [ "Nihi" ],
     "dependencies": [
